@@ -1,6 +1,8 @@
 # RLrobot
   This is the starting github to creating a robot RL model with simulation.
-  This contains a program for person detection for future use for robot pathing which is optimized to run on a raspberry pi 5. The robot design was used by dan makes thing's open source bipedal robot. The link to the github is here. https://github.com/makerforgetech/modular-biped. (shown here This github was the insperation for the project. 
+  This contains a program for person detection for future use for robot pathing which is optimized to run on a raspberry pi 5. The robot design was used by dan makes thing's open source bipedal robot. The link to the github is here. https://github.com/makerforgetech/modular-biped. (shown here)
+
+![image](https://github.com/user-attachments/assets/f12c94f2-571d-4671-a7fc-07c76ee1eab2)
 
 
 
