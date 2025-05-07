@@ -8,4 +8,4 @@ Here is an exmaple image of the robot in the simulator after conversion to xml.
 
 
 # Camera
-The camera object detection files include the .pynib file and 
+The camera object detection files include the .ipynb file and which prunes and quantizes the weights. The other files are used to test the camera system on the Pi5
